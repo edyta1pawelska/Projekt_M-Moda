@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "Sukienka",
+      "title": "Tunika boho plażowa sukienka bluzka",
+      "price":"29,70",
+      "desription": "Delikatna zwiewna tunika w stylu oversize. Kolorowe dodatki z haftowanych kwiatów nadają jej niezwykłego uroku. Jest luźna i bardzo wygodna. Wykonana głownie z bawełny więc jest przewiewna i miękka. Idealna na wakacyjny wyjazd jako okrycie na strój kąpielowy, ale również do legginsów czy krótkich jeansowych spodenek na wieczorne wyjście.\nTunika jest z w rozmiarze uniwersalnym pasującym na Panie w rozmiarach od S do XL.\nPRZEWIEWNA I WYGODNA\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\nA - długość całkowita - 92 cm\nB - szerokość pod pachami - 57 cm\nC - długość rękawa - 43 cm\nD - szerokość na dole - 62 cm\nE - szerokość w ramionach - 40 cm\nF - długość boku - 79 cm\nSkład materiału:\n60% bawełna\n40% poliester"
+    },
+    {
+      "id": 2,
+      "type": "Kardigan",
+      "title": "SWETER kardigan złote pasy złota lamówka",
+      "price":"20,00",
+      "description": "Piękny sweter/kardigan ze złotą lamówką. Model bez zapięcia, z kieszeniami. Sweter włoski, wysokiej jakości, mięciutki, przyjemny, a zarazem BARDZO SOLIDNY. Idealny na chłodne wieczory. Pasuje do wielu stylizacji, zarówno na codzień do jeansów jak i do eleganckiej spódnicy czy sukienki.\nRozmiar uniwersalny pasujący na S-L. MIŁY, CIEPŁY i STYLOWY !!!\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\nA - szerokość w ramionach - 42 cm\nB - długość całkowita - 90 cm\nC - szerokość pod pachami - 57 cm\nD - szerokość na dole - 50 cm\nE - długość rękawa - 64 cm\nSkład:\n100% akryl"
+    },
+    {
+      "id": 3,
+      "type": "Tunika",
+      "title": "WYGODNA TUNIKA bluzka paski KOLORY OVERSIZE",
+      "price":"25,70",
+      "description": "Oversizowa tunika w paski z bardzo miękkiego przyjemnego w dotyku materiału. Ładnie układa się na ciele. Fason posiada rozcięcie po bokach i wiązanie na rękawkach. Idealnie pasuje do legginów, rajstop, rurek, jeansów. Rozmiar uniwersalny pasujący na S-L.  DWA KOLORY: odcienie bordowego i ciemnoszary.\n\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\nA - długość całkowita - 90 cm\nB - szerokość w ramionach - 43 cm\nC - szerokość pod pachami - 63 cm\nD - szerokość na dole - 60 cm\nE - długość rękawa - 40 cm\nSkład materiału:\n95% poliester\n5% elastan"
+    },
+    {
+      "id": 4,
+      "type": "Sukienka",
+      "title": "KOSZULOWA LUŹNA SUKIENKA TUNIKA CASUAL BAWEŁNA",
+      "price":"29,70",
+      "description": "Zwiewna sukienka w najmodniejszym w tym sezonie fasonie koszulowym. Wkładana przez głowę, posiada ozdobne guziki przy dekolcie oraz pasek w talii. Model z długimi regulowanymi rękawami.\nSukienka w 95% uszyta z bawełny dzięki czemu jest miła w dotyku, zwiewa i bardzo wygodna. Dobrze leży i ładnie układa się na sylwetce. Pasuje do legginsów i rajstop na chłodniejsze dni oraz bez żadnych dodatków na cieplejszą pogodę.\nIdealna do pracy, biura i na codzień, a także na wieczorne wyjścia. Rozmiar uniwersalny pasujący na Panie noszące rozmiary S,M,L.\nWymiary: Ubrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\nA - długość całkowita - 92 cm\nB - szerokość w ramionach - 44 cm\nC - szerokość pod pachami - 53 cm\nD - szerokość w pasie - 55 cm\nE - długość rękawa - 58 cm (całkowita), 35 cm (podpięty)\nF - szerokość na dole - 66 cm\nSkład materiału:\n\n95% bawełna\n5% elastan"
+    },
+    {
+      "id": 5,
+      "type": "Sukienka",
+      "title": "SUKIENKA L-XL TRAPEZOWA OVERSIZE",
+      "price":"19,70",
+      "description": "Sukienka o elastycznym materiale wkładana przez głowę. Proste wykonanie sukienki i trapezowy kształt sprawiają że ukryje ona największe mankamenty sylwetki. Styl oversize i miękki materiał powodują że jest ona bardzo wygodna w użytkowaniu. Uroku dodaje urocze wykończenie na kształt koronki na rękawach oraz na dole sukienki. Sprawdzi się zarówno w eleganckiej stylizacji ze szpilkami jak i casualowej do balerinek czy sandałów. Rozmiar uniwersalny pasuje na Panie w rozmiarach od L-XL\nDOSTĘPNE DWIE SZTUKI RÓŻOWA i SZARA"
+    },
+    {
+      "id": 6,
+      "type": "Sukienka",
+      "title": "SUKIENKA S-M KORONKA FALBANA KWIATY PASEK UNI",
+      "price":"39,70",
+      "description": "Koronkowa sukienka o elastycznym materiale wkładana przez głowę. Posiada kryjącą podszewkę w kolorze białym i koronkowe falbany na rękawach. Koronka jest miękka przez co bardzo wygodnie się nosi. A jednocześnie wygląda na elegancką i będzie odpowiednia na wiele różnych okazji. Rozmiar uniwersalny pasuje na Panie w rozmiarach S oraz M.\nDOSTĘPNA W KOLORZE BŁĘKITNYM\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\nA - długość całkowita - 86 cm\nB - szerokość w ramionach - 36 cm\nC - szerokość pod pachami - 40 cm\nD - szerokość na dole - 54 cm\nSkład materiału:\n50% poliester\n45% wiskoza\n5% elastan"
+    },
+    {
+      "id": 7,
+      "type": "Bluzka",
+      "title": "BLOGERSKA KOBIECA KOSZULA HISZPANKA KORONKA",
+      "price":"19,70",
+      "description": "Przepięknie uszyta koszula hiszpanka w kolorze czarnym z wstawkami koronkowymi. Koszula z delikatnego cienkiego materiału, przód z podwójnej warstwy materiału. Gruby pas gumki zakończony piękną cienką koronką. Długi rękaw zakończony w ten sam sposób co dekolt.  Bluzka idealnie komponuje się z rurkami, legginsami, obcisłymi spodniami, jeansami. Rozmiar uniwersalny pasuje na Panie w rozmiarach od S do L.\n\nWymiary: Ubrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\nA - długość całkowita - 61 cm\nB - szerokość w ramionach - 38 cm (bez rozciągania gumki)\nC - szerokość pod pachami - 48 cm\nD - szerokość na dole - 54 cm\nSkład materiału:\n\n95% poliester\n5% elastan"
+    },
+    {
+      "id": 8,
+      "type": "Sukienka",
+      "title": "SUKIENKA L-XL BOHO KWIATY FLORAL CZARNA ZAMEK",
+      "price":"19,70",
+      "description": "Sukienka w stylu boho na grubsze ramiączka z wstawkami koronkowymi. Z tyłu suwak zakończony uroczą perełką. W talii gumka dzięki której sukienka idealnie dopasuje się do Twojej figury. Sukienka w rozmiarze pasującym na Panie noszące rozmiar od L do XL\nWymiary:  Ubrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 95 cm\nB - szerokość w ramionach - 36 cm\nC - szerokość pod pachami - 51 cm\nD - szerokość w pasie - 34 cm (gumka bez rozciągania), 53 cm (gumka po całkowitym rozciągnięciu)\nE - szerokość na dole - 74 cm\nSkład materiału:\n\n65% bawełna\n35% poliester"
+    },
+    {
+      "id": 9,
+      "type": "Sukienka",
+      "title": "SUKIENKA SM GUZIKI PASEK GUMKA KORONKA",
+      "price":"19,70",
+      "description": "Sukienka typu szmizjerka, ze stójką oraz gumką w pasie. Talia jest podkreślona dodatkowo paskiem. Zapinana na guziki, rękawy długie z możliwością podpięcia.  Dół sukienki pięknie wykończony delikatną koronką. \nDługość mini dodaje jej niezobowiązującego charakteru dzięki czemu pasuje na wiele różnych okazji, zarówno na co dzień jak i na wieczorne wyjścia. \nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 90 cm\nB - szerokość w ramionach - 40 cm\nC - szerokość pod pachami - 45 cm\nD - szerokość w pasie - 30 cm (gumka bez rozciągania), 45 cm (gumka po całkowitym rozciągnięciu)\nE - szerokość na dole - 65 cm (po całkowitym rozłożeniu falban)\nF - długość rękawa - 40 cm (podpięty)\nSkład materiału:\n\n95% poliester\n5% elastan"
+    },
+    {
+      "id": 10,
+      "type": "Sukienka",
+      "title": "SUKIENKA WYCIĘTE RAMIONA JASNY RÓŻ OVERSIZE",
+      "price":"19,70",
+      "description": "Lekka letnia sukienka w kolorze JASNEGO PUDROWEGO RÓŻU. Materiał z którego jest uszyta jest przewiewny i idealny na lato. Wkładana przez głowę, z tyłu zapinana na jeden guzik. Na piersiach i plecach marszczenia dzięki którym ładnie się układa. Trzymające się na gumce WYCIĘTE RAMIONA które są obecnie bardzo modne dodają niezwykłego uroku.\n\nRozmiar uniwersalny pasujący na Panie w rozmiarach S-L\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 89 cm\nB - szerokość w ramionach - 30 cm\nC - szerokość pod pachami - 48 cm\nD - szerokość na dole - 67 cm\nE -szerokość rękawa - 12 cm\nSkład materiału:\n100% wiskoza"
+    },
+    {
+      "id": 11,
+      "type": "Sukienka",
+      "title": "SUKIENKA GROCHY FALBANA PIN UP DEKOLT",
+      "price":"19,70",
+      "description": "Sukienka w grochy wykończona falbanami. W pasie wszyta gumka dzięki której dół sukienki jest lekko rozkloszowany.  Kopertowy dekolt podkreśla kobiece kształty. Intensywne, kobiece kolory sukienki. Idealna na wieczorne wyjścia i imprezy jak również w stylizacji codziennej.  Rozmiar uniwersalny pasuje na Panie w rozmiarach M-L\n\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 91 cm\nB - szerokość w ramionach - 40 cm\nC - szerokość pod pachami - 50 cm\nD - szerokość w pasie - 33 cm (gumka bez rozciągania), 51 cm (gumka po całkowitym rozciągnięciu)\nE - długość rękawa - 31 cm\nF - szerokość na dole - 70 cm\nSkład materiału:\n95% poliester\n5% elastan"
+    },
+    {
+      "id": 12,
+      "type": "Sukienka",
+      "title": "SUKIENKA BOHO FLORAL KORONKA GUMKA",
+      "price":"19,70",
+      "description": "Sukienka w stylu boho w kwiatowy print. Wkładana przez głowę, na górze koronkowe dodatki. Na biuście zamek dzięki któremu można regulować głębokość dekoltu. W talii gumka dzięki której sukienka idealnie dopasuje się do Twojej figury.  \nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 84 cm\nB - szerokość w ramionach - 39 cm\nC - szerokość pod pachami - 48 cm\nD - szerokość w pasie - 33 cm (gumka bez rozciągania), 54 cm (gumka po całkowitym rozciągnięciu)\nE - szerokość na dole - 63 cm\nSkład materiału:\n\n100% poliester"
+    },
+    {
+      "id": 13,
+      "type": "Sukienka",
+      "title": "SUKIENKA S-M KORONKA HAFT KWIATY KOLORY UNI",
+      "price":"19,70",
+      "description": "Prosta sukienka wakładana przez głowę o elastycznym materiale. Na rękawach posiada piękne wstawki z cienkiej koronki z wyhaftowanym pasem kwiatów w kolorze żółto-czerwono-zielonym. Materiał jest gładki i miękki przez co jest wygodny w użytkowaniu. Sukienka w kształcie trapezu dzięki czemu nie jet zbyt obcisła i ukryje nawet największe mankamenty sylwetki. Rozmiar uniwersalny pasuje na Panie w rozmiarach S oraz M.\n\nWymiary: Ubrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 85 cm\nB - szerokość w ramionach - 40 cm\nC - szerokość pod pachami - 48 cm\nD - szerokość na dole - 69 cm\nSkład materiału:\n\n95% poliester\n5% elastan"
+    },
+    {
+      "id": 14,
+      "type": "Sukienka",
+      "title": "BLUZKA LAMPAS shirt paski oversize BAWEŁNA",
+      "price":"19,70",
+      "description": "Sportowa casualowa bluzka. Towar włoski wykonany w 95% z bawełny. Dół zakończony ściągaczem. Tył z głębszym dekoltem i wiązaniem z lampasem. Modne w tym sezonie paski i lampasy idealne do sportowej stylizacji. Model oversize dopasowujący się do sylwetki. DWA KOLORY\n\nRozmiar uniwersalny odpowiedni na S-L.\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - szerokość w ramionach - 42 cm\nB - długość całkowita - 63 cm\nC - szerokość pod pachami - 56 cm\nD - szerokość na dole - 51 cm\nE - długość rękawa - 61 cm\nSkład materiału:\n\n95% bawełna\n5% elastan"
+    },
+    {
+      "id": 15,
+      "type": "Płaszcz",
+      "title": "ELEGANCKI PŁASZCZ NARZUTKA MARYNARKA FALBANA",
+      "price":"29,70",
+      "description": "Elegancki lekki płaszczyk/marynarka. Model bez zapięcia, rękaw 3/4 zakończony efektowną falbaną. Wykonany z przyjemnego w dotyku materiału. Prosty, bardzo kobiecy krój. Pięknie układa się na sylwetce.\nPłaszczyk będzie idealnym dodatkiem do każdej eleganckiej stylizacji. Sugerowana rozmiarówka to S-M:\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 81 cm\nB - szerokość w ramionach - 38 cm\nC - szerokość pod pachami - 46 cm\nD - długość rękawa - 52 cm\nE - szerokość na dole - 53 cm\nSkład:\n\n95% poliester\n5% elastan"
+    },
+    {
+      "id": 16,
+      "type": "Sukienka",
+      "title": "SUKIENKA S BOHO FLORAL KORONKA GUMKA KWIATY",
+      "price":"19,70",
+      "description": "Sukienka w stylu boho w kwiatowy print. Wkładana przez głowę, na górze koronkowe dodatki. Fason posiada gumkę w talii dzięki której sukienka idealnie dopasuje się do Twojej figury. Dostępne dwie sztuki w kolorze RÓŻOWYM i NIEBIESKIM w rozmiarze pasującym na Panie noszące rozmiar S-M\n\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 83 cm\nB - szerokość w ramionach - 39 cm\nC - szerokość pod pachami - 47 cm\nD - szerokość na dole - 67 cm\nE - szerokość w pasie - 31 cm (gumka bez rozciągania), 52 cm (gumka po całkowitym rozciągnięciu)\nF - długość rękawa - 17 cm\nSkład materiału:\n100% poliester"
+    },
+    {
+      "id": 17,
+      "type": "Sukienka",
+      "title": "KOSZULOWA LUŹNA SUKIENKA SZMIZJERKA PASEK",
+      "price":"39,70",
+      "description": "Piękna sukienka szmizjerka w najmodniejszym w tym sezonie fasonie koszulowym. Model na guziki z kieszeniami i pięknym plecionym paskiem w talii. Długi regulowany rękaw.\nUszyta z wysokiej jakości materiału, jest wygodna i dopasowuje się do każdej sylwetki. Dobrze leży i świetnie się układa. Sukienka idealna do pracy, do biura, ale także na codzień czy na wieczorne wyjścia.\n\nRozmiar uniwersalny odpowiedni na Panie noszące rozmiary S,M, L\n\nWymiary:\nUbrania mierzone na płasko, bez rozciągania\n(Różnica w wymiarach może wynosić +/- 2 cm)\n\nA - długość całkowita - 86 cm\nB - szerokość w ramionach - 43 cm\nC - szerokość pod pachami - 55 cm\nD - szerokość w pasie - 54 cm\nE - długość rękawa - 60 cm (całkowita), 35 cm (po podpięciu)\nF - szerokość na dole - 63 cm\nSkład materiału:\n\n100% wiskoza"
+    }
+    ]
+}
