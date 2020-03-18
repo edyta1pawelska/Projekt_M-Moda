@@ -1,8 +1,34 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import './App.css';
 import Header from "./Header";
 import Footer from "./Footer";
 const Products=()=>{
+    const [product, setProduct]=useState([])
+
+    const fetchAllProd=()=>{
+        fetch('http://localhost:3000/db')
+            .then((res)=>res.json())
+            .then(res => {setProduct(res)})
+    }
+    useEffect(()=>{
+        fetch('http://localhost:3000/db')
+            .then((res)=>res.json())
+            .then((res)=>{setProduct(res)})
+
+    }, []);
+
+    const showProd=(db)=>{
+        fetch(`http://localhost:3000/db/`, {
+            method: 'POST',
+            headers: {
+                "Content-Type": 'application/json'
+            },
+            body: JSON.stringify(db)
+        }).then(
+            ()=>{fetchAllProd()}
+        )
+        }
+
     return (
         <>
             <Header/>
