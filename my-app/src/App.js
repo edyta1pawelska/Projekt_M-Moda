@@ -8,9 +8,11 @@ import {
 } from 'react-router-dom';
 
 import './App.css';
-import Products from "./Products";
-import Basket from "./Basket"
-import Home from "./Home";
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+import Basket from "./pages/Basket";
+import PageNotFound from "./pages/404";
+
 
 
 function App() {
@@ -19,9 +21,10 @@ function App() {
             <>
 
                 <Switch>
-                    <Route path="/home" component={Home} />
+                    <Route exact path="/" component={Home} />
                     <Route path="/products" component={Products} />
                     <Route path="/basket" component={Basket} />
+                    <Route path="*" component={PageNotFound} />
                 </Switch>
             </>
         </Router>

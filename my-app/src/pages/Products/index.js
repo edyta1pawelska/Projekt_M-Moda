@@ -1,24 +1,25 @@
 import React, {useEffect, useState} from 'react';
-import './App.css';
-import Header from "./Header";
-import Footer from "./Footer";
+
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 const Products=()=>{
     const [product, setProduct]=useState([])
 
     const fetchAllProd=()=>{
-        fetch('http://localhost:3000/db')
+        fetch('http://localhost:3000/product')
             .then((res)=>res.json())
             .then(res => {setProduct(res)})
+
     }
     useEffect(()=>{
-        fetch('http://localhost:3000/db')
+        fetch('http://localhost:3000/product')
             .then((res)=>res.json())
             .then((res)=>{setProduct(res)})
 
     }, []);
 
     const showProd=(db)=>{
-        fetch(`http://localhost:3000/db/`, {
+        fetch(`http://localhost:3000/product/`, {
             method: 'POST',
             headers: {
                 "Content-Type": 'application/json'
@@ -45,11 +46,15 @@ const Products=()=>{
                         </ul>
                     </div>
                     <div>
-                        <div>Bluzki</div>
-                        <div>Kardigany</div>
-                        <div>Sukienki</div>
-                        <div>Płaszcze</div>
-                        <div>Tuniki</div>
+                        <ul>
+                            {product.map((el,ind)=> <li key={ind}>{el}</li>)}
+                        </ul>
+
+                        {/*<div>Bluzki</div>*/}
+                        {/*<div>Kardigany</div>*/}
+                        {/*<div>Sukienki</div>*/}
+                        {/*<div>Płaszcze</div>*/}
+                        {/*<div>Tuniki</div>*/}
                     </div>
                     <div>
                         <div>
