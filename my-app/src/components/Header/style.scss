@@ -1,0 +1,46 @@
+@import "../../assets/sass/main.scss";
+
+.header__navigation {
+  background-color: $font-sec_color;
+  background-image: url("../../assets/images/Background4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+  width: 100vw;
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  color: $font-sec_color;
+
+
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  background-image: url("../../assets/images/Logo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10%;
+  opacity: 50%;
+}
+.navigation{
+  display: flex;
+  width: 100%;
+  color: $font-sec_color;
+  opacity: 90%;
+}
+.fas{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: $font-sec_color;
+
+}
+li{
+  margin: 10px;
+
+
+}

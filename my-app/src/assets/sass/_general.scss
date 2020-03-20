@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: $font_color;
+}
+
+body {
+  font-size: $font-size;
+  font-family: $main_font;
+  color: $font_color;
+  background-color: #96a8b0;
+}

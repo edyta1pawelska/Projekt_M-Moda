@@ -7,7 +7,8 @@ import {
     NavLink,
 } from 'react-router-dom';
 
-import './App.css';
+// import './App.css';
+import Nav from  "./components/Nav/index";
 import Home from "./pages/Home";
 import Products from "./pages/Products";
 import Basket from "./pages/Basket";
@@ -19,13 +20,16 @@ function App() {
     return (
         <Router>
             <>
+                {/*<Nav>*/}
+                    <Switch>
+                        <Route exact path="/" component={Home} />
+                        <Route path="/products" component={Products} />
+                        <Route path="/basket" component={Basket} />
+                        <Route path="*" component={PageNotFound} />
+                    </Switch>
+                {/*</Nav>*/}
 
-                <Switch>
-                    <Route exact path="/" component={Home} />
-                    <Route path="/products" component={Products} />
-                    <Route path="/basket" component={Basket} />
-                    <Route path="*" component={PageNotFound} />
-                </Switch>
+
             </>
         </Router>
     );

@@ -1,11 +1,12 @@
 import React from 'react';
+import "./style.scss";
 
 
 const Main=()=>{
     return(
        <>
            <main>
-               <div>
+               <div className={"details"}>
                    <ul>
                        <li> <a href= "#">Bluzki</a> </li>
                        <li> <a href= "#">Kardigany</a> </li>
@@ -15,8 +16,9 @@ const Main=()=>{
 
                    </ul>
                </div>
-               <div>
-                   <div>
+               <div className={"newsletter"}>
+                   <div className={'empty'}></div>
+                   <div className={"newsletter__sec"}>
                        <h3>Newsletter</h3>
                        <p>Zapisz się do newslettera i otrzymaj 10% zniżki na kolejne zakupy</p>
                        <label>Twój adres e-mail

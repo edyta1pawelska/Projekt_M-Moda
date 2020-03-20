@@ -1,0 +1,41 @@
+@import "../../assets/sass/main.scss";
+
+.details{
+  width: 100vw;
+  height: 300px;
+}
+
+.newsletter{
+  width: 100vw;
+  height: 300px;
+  background-image: url("../../assets/images/Background2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+
+}
+.newsletter__sec{
+  width: 50vw;
+  height: 300px;
+  background-color: $font-sec_color;
+  opacity: 70%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  padding: 50px;
+  line-height: 30px;
+
+
+}
+
+.empty{
+  width: 50vw;
+  height: 300px;
+  //background-image: url("../../assets/images/Background4.jpg");
+  //background-repeat: no-repeat;
+  //background-size: cover;
+  //background-position: center;
+
+}
+
